@@ -9,3 +9,8 @@ a {
   color: black;
   display: inline-block;
 }
+
+body {
+  padding: 100px 300px;
+  background-color: #f3f3f3;
+}
